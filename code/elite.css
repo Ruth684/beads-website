@@ -1,0 +1,13 @@
+
+      body {
+       color:blacks; background:blueviolet;
+       background-image: url("trays-of-beads.jpg");
+      }
+      h1{
+font-size: 50px;
+font-family: 'Trebuchet MS';
+      }
+    span{
+        text-transform: uppercase;
+    }  
+    
